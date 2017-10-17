@@ -1,0 +1,4 @@
+﻿  leetcode_56.cpp
+c:\users\dell-pc\desktop\算法课\leetcode_56\leetcode_56\leetcode_56\leetcode_56.cpp(100): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  leetcode_56.vcxproj -> C:\Users\dell-pc\Desktop\算法课\leetcode_56\leetcode_56\Debug\leetcode_56.exe
+  leetcode_56.vcxproj -> C:\Users\dell-pc\Desktop\算法课\leetcode_56\leetcode_56\Debug\leetcode_56.pdb (Partial PDB)
